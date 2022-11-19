@@ -1,0 +1,17 @@
+.text-input {
+  font-size: 18px;
+  padding: 4px;
+}
+
+.register-button {
+  font-size: 1.1rem;
+  margin-top: 0.4rem;
+  padding: 8px 0;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 5%;
+  background: tomato;
+  color: #fff;
+  cursor: pointer;
+}
